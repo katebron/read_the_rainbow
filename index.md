@@ -2,8 +2,8 @@
 
 ### cleanness
 <img style="float: left; width:25%; margin-right: 1em;" src="https://www.amazon.com/images/I/41mU4Aq2z0L._SX324_BO1,204,203,200_.jpg">
-Garth Greenwell 
-Fiction  
+Garth Greenwell  
+Fiction    
 [library link](https://find.minlib.net/iii/encore/record/C__Rb3866032?lang=eng)
 
 _An American teacher navigates a life transformed by the discovery and loss of love. As he prepares to leave the place he’s come to call home, he grapples with the intimate encounters that have marked his years abroad, each bearing uncanny reminders of his past. A queer student’s confession recalls his own first love, a stranger’s seduction devolves into paternal sadism, and a romance with another foreigner opens, and heals, old wounds. Each echo reveals startling insights about what it means to seek connection: with those we love, with the places we inhabit, and with our own fugitive selves._
@@ -32,7 +32,7 @@ _"Schizophrenia is not a single unifying diagnosis, and Esmé Weijun Wang writes
 ### Fun home
 <img style="float: left; width:25%; margin-right: 1em;" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392065239l/20765729.jpg">
 Alison Bechdel  
-Graphic novel 
+Graphic novel  
 [library link](https://find.minlib.net/iii/encore/record/C__Rb2502640_)
 
 _In this graphic memoir, Alison Bechdel charts her fraught relationship with her late father._
@@ -53,7 +53,7 @@ _"Dear Readers: Everything you've ever asked me about Gilead and its inner worki
 <img style="float: left; width:25%; margin-right: 1em;" src="https://m.media-amazon.com/images/I/51ITzTfc7pL.jpg">
 Carmen Maria Machado  
 Memoir   
-[library link](https://find.minlib.net/iii/encore/record/C__Rb3862787)
+[library link](https://find.minlib.net/iii/encore/record/C__Rb3862787)   
 
 _For years Carmen Maria Machado has struggled to articulate her experiences in an abusive same-sex relationship. In this extraordinarily candid and radically inventive memoir, Machado tackles a dark and difficult subject with wit, inventiveness and an inquiring spirit, as she uses a series of narrative tropes—including classic horror themes—to create an entirely unique piece of work which is destined to become an instant classic._
 
@@ -61,7 +61,7 @@ _For years Carmen Maria Machado has struggled to articulate her experiences in a
 <img style="float: left; width:25%; margin-right: 1em;" src="https://www.amazon.com/images/I/91f1+I+0r5L._AC_UY436_FMwebp_QL65_.jpg">
 Marlon James  
 Fiction  
-[library link](https://find.minlib.net/iii/encore/record/C__Rb3781267)
+[library link](https://find.minlib.net/iii/encore/record/C__Rb3781267)   
 
 _In the first novel in Marlon James's Dark Star trilogy, myth, fantasy, and history come together to explore what happens when a mercenary is hired to find a missing child._
 
@@ -70,7 +70,7 @@ _...Drawing from African history and mythology and his own rich imagination, Mar
 ### Oranges are not the only fruit
 <img style="float: left; width:25%; margin-right: 1em;" src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/0995/9780099562993.jpg">
 Jeanette Winterson   
-Fiction
+Fiction  
 [library_link](https://find.minlib.net/iii/encore/record/C__Rb1799538)
 
 _This is the story of Jeanette, adopted and brought up by her mother as one of God's elect. Zealous and passionate, she seems seems destined for life as a missionary, but then she falls for one of her converts._
