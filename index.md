@@ -63,9 +63,9 @@ Marlon James
 Fiction  
 [library link](https://find.minlib.net/iii/encore/record/C__Rb3781267)
 
-_In the first novel in Marlon James's Dark Star trilogy, myth, fantasy, and history come together to explore what happens when a mercenary is hired to find a missing child.
+_In the first novel in Marlon James's Dark Star trilogy, myth, fantasy, and history come together to explore what happens when a mercenary is hired to find a missing child._
 
-_...Drawing from African history and mythology and his own rich imagination, Marlon James has written an adventure that's also an ambitious, involving read. Defying categorization and full of unforgettable characters, Black Leopard, Red Wolf explores the fundamentals of truths, the limits of power, the excesses of ambition, and our need to understand them all.
+_...Drawing from African history and mythology and his own rich imagination, Marlon James has written an adventure that's also an ambitious, involving read. Defying categorization and full of unforgettable characters, Black Leopard, Red Wolf explores the fundamentals of truths, the limits of power, the excesses of ambition, and our need to understand them all._
 
 ### Oranges are not the only fruit
 <img style="float: left; width:25%; margin-right: 1em;" src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/0995/9780099562993.jpg">
@@ -73,10 +73,9 @@ Jeanette Winterson
 Fiction
 [library_link](https://find.minlib.net/iii/encore/record/C__Rb1799538)
 
-_This is the story of Jeanette, adopted and brought up by her mother as one of God's elect. Zealous and passionate, she seems seems destined for life as a missionary, but then she falls for one of her converts.
+_This is the story of Jeanette, adopted and brought up by her mother as one of God's elect. Zealous and passionate, she seems seems destined for life as a missionary, but then she falls for one of her converts._
 
 _At sixteen, Jeanette decides to leave the church, her home and her family, for the young woman she loves. Innovative, punchy and tender,
-
-_Oranges Are Not the Only Fruit is a few days ride into the bizarre outposts of religious excess and human obsession.
+Oranges Are Not the Only Fruit is a few days ride into the bizarre outposts of religious excess and human obsession._
 
 
