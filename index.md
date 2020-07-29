@@ -1,7 +1,7 @@
 ## Books for our club
 
 ### cleanness
-<img style="float: left;" src="https://www.amazon.com/images/I/41mU4Aq2z0L._SX324_BO1,204,203,200_.jpg">
+<img style="float: left; width:25%; margin-right: 1em;" src="https://www.amazon.com/images/I/41mU4Aq2z0L._SX324_BO1,204,203,200_.jpg">
 Garth Greenwell 
 Fiction  
 [library link](https://find.minlib.net/iii/encore/record/C__Rb3866032?lang=eng)
@@ -10,7 +10,7 @@ _An American teacher navigates a life transformed by the discovery and loss of l
 
 
 ### stay and fight
-<img style="float: left;" src="https://www.amazon.com/images/I/411PZhIxXqL._SX331_BO1,204,203,200_.jpg">
+<img style="float: left; width:25%; margin-right: 1em;" src="https://www.amazon.com/images/I/411PZhIxXqL._SX331_BO1,204,203,200_.jpg">
 Madeline Fitch  
 Fiction  
 [library link](https://find.minlib.net/iii/encore/record/C__Rb3851471)
@@ -21,7 +21,7 @@ _So Helen invites the new family to throw in with her—they’ll split the work
 
 
 ### collected schizophrenias
-<img style="float: left;" src="https://www.amazon.com/images/I/61N7i9-42JL._SX331_BO1,204,203,200_.jpg">
+<img style="float: left; width:25%; margin-right: 1em;" src="https://www.amazon.com/images/I/61N7i9-42JL._SX331_BO1,204,203,200_.jpg">
 Esme Weijun Wang  
 Essays  
 [library link](https://find.minlib.net/iii/encore/record/C__Rb3801513)
@@ -30,10 +30,10 @@ _"Schizophrenia is not a single unifying diagnosis, and Esmé Weijun Wang writes
 
 
 ### Fun home
-<img style="float: left;" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392065239l/20765729.jpg">
+<img style="float: left; width:25%; margin-right: 1em;" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392065239l/20765729.jpg">
 Alison Bechdel  
 Graphic novel 
-[library link] (https://find.minlib.net/iii/encore/record/C__Rb2502640_)
+[library link](https://find.minlib.net/iii/encore/record/C__Rb2502640_)
 
 _In this graphic memoir, Alison Bechdel charts her fraught relationship with her late father._
 
@@ -41,16 +41,16 @@ _Distant and exacting, Bruce Bechdel was an English teacher and director of the 
 
 
 ### The testament
-<img style="float: left;" src="https://pictures.abebooks.com/isbn/9780385543781-us.jpg">
+<img style="float: left; width:25%; margin-right: 1em;" src="https://pictures.abebooks.com/isbn/9780385543781-us.jpg">
 Margaret Atwood  
 Fiction  
-[library_link] (https://find.minlib.net/iii/encore/record/C__Rb3828291)
+[library_link](https://find.minlib.net/iii/encore/record/C__Rb3828291)
 _In this brilliant sequel to The Handmaid's Tale, acclaimed author Margaret Atwood answers the questions that have tantalized readers for decades._
 
 _"Dear Readers: Everything you've ever asked me about Gilead and its inner workings is the inspiration for this book. Well, almost everything! The other inspiration is the world we've been living in."_
 
 ### In the dream house: a memoir
-<img style="float: left;" src="https://m.media-amazon.com/images/I/51ITzTfc7pL.jpg">
+<img style="float: left; width:25%; margin-right: 1em;" src="https://m.media-amazon.com/images/I/51ITzTfc7pL.jpg">
 Carmen Maria Machado  
 Memoir   
 [library link](https://find.minlib.net/iii/encore/record/C__Rb3862787)
@@ -58,7 +58,7 @@ Memoir
 _For years Carmen Maria Machado has struggled to articulate her experiences in an abusive same-sex relationship. In this extraordinarily candid and radically inventive memoir, Machado tackles a dark and difficult subject with wit, inventiveness and an inquiring spirit, as she uses a series of narrative tropes—including classic horror themes—to create an entirely unique piece of work which is destined to become an instant classic._
 
 ### Black leopard, red wolf
-<img style="float: left;" src="https://www.amazon.com/images/I/91f1+I+0r5L._AC_UY436_FMwebp_QL65_.jpg">
+<img style="float: left; width:25%; margin-right: 1em;" src="https://www.amazon.com/images/I/91f1+I+0r5L._AC_UY436_FMwebp_QL65_.jpg">
 Marlon James  
 Fiction  
 [library link](https://find.minlib.net/iii/encore/record/C__Rb3781267)
@@ -68,7 +68,7 @@ _In the first novel in Marlon James's Dark Star trilogy, myth, fantasy, and hist
 _...Drawing from African history and mythology and his own rich imagination, Marlon James has written an adventure that's also an ambitious, involving read. Defying categorization and full of unforgettable characters, Black Leopard, Red Wolf explores the fundamentals of truths, the limits of power, the excesses of ambition, and our need to understand them all.
 
 ### Oranges are not the only fruit
-<img style="float: left;" src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/0995/9780099562993.jpg">
+<img style="float: left; width:25%; margin-right: 1em;" src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/0995/9780099562993.jpg">
 Jeanette Winterson   
 Fiction
 [library_link](https://find.minlib.net/iii/encore/record/C__Rb1799538)
